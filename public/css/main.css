@@ -1,0 +1,10 @@
+.animales{
+    text-decoration: black;
+    color: black;
+}
+
+.sub_hr{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
